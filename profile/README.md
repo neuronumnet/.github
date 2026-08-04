@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://neuronum.net/static/logo_new.png" alt="Neuronum" width="80">
-</h1>
 <h4 align="center">Neuronum</h4>
 
 <p align="center">
