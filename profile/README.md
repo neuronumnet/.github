@@ -18,7 +18,7 @@
 
 ------------------
 
-### **About**
+### **Welcome To Neuronum!**
 
 Neuronum is built around the [Secure Agent Session (SAS)](https://neuronum.net/secure-agent-session), an end-to-end encrypted channel designed for stateful agent-to-client and agent-to-agent communication across businesses, partners, and customers. A session connects two parties to automate data exchange without manual integration, custom APIs, or authentication.
 
