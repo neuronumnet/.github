@@ -1,12 +1,4 @@
-### **About Neuronum**
-
-Neuronum is built around the [Secure Agent Session (SAS)](https://neuronum.net/secure-agent-session), an end-to-end encrypted channel designed for stateful agent-to-client and agent-to-agent communication across businesses, partners, and customers. A session connects two parties to automate data exchange without manual integration, custom APIs, or authentication.
-
-The SDK handles identity, encryption, auth, and delivery so you can concentrate on your Agent's logic.
-
-------------------
-
-<h4 align="center">Useful Links</h4>
+<h4 align="center">Neuronum</h4>
 
 <p align="center">
   <a href="https://neuronum.net">
@@ -23,3 +15,11 @@ The SDK handles identity, encryption, auth, and delivery so you can concentrate 
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
 </p>
+
+------------------
+
+### **About**
+
+Neuronum is built around the [Secure Agent Session (SAS)](https://neuronum.net/secure-agent-session), an end-to-end encrypted channel designed for stateful agent-to-client and agent-to-agent communication across businesses, partners, and customers. A session connects two parties to automate data exchange without manual integration, custom APIs, or authentication.
+
+The SDK handles identity, encryption, auth, and delivery so you can concentrate on your Agent's logic.
